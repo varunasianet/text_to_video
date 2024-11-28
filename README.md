@@ -20,6 +20,7 @@ An automated video generation system that transforms news articles into engaging
 * FFmpeg installed on your system
 * Pexels API key
 * Bhashini API configuration
+* Install Ollama with any LLM like gemma2 , qwen2
 
 ### Installation
 
